@@ -15,15 +15,11 @@ Este es un proyecto simple de **HTML**, **CSS** y **JavaScript** que solicita al
 - Mensajes personalizados según edad
 - Tabla de historial en la misma página
 
-validador-edad/
-│
-├── index.html 
-├── style.css 
-├── script.js 
-└── README.md 
 
 ### Como usar
 1. Clona o descarga este repositorio.
 2. Abre el script **index.html** o puedes dirigirte al link https://robertoagomez99.github.io/validador_edad/
-3. Puedes ingresar tu nombre y edad 
+3. Puedes ingresar tu nombre y edad
+4. Para luego validar la informacion
+5. Si eres mayor de edad, tu nombre se guardara en la tabla y te mostrara un msj personalizado.
 
